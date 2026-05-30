@@ -1,0 +1,38 @@
+﻿ticker,acuracia_hist_%,preco_atual,preco_proj_jun26,preco_proj_dez26,retorno_proj_%,pct_dias_alta_%,volatilidade_%,sharpe_proj,potencial_2026,status,nota
+HBOR3.SA,53.01,2.45,20.2786,151.3506,6077.58,100.0,3.61,111.711,85.9,Alta positiva,Monitorar — Sharpe razoavel
+BEES3.SA,53.01,8.7,18.4367,38.2842,340.05,100.0,2.73,52.77,85.9,Alta positiva,Monitorar — Sharpe razoavel
+MTRE3.SA,52.21,3.66,6.7429,12.5654,243.32,100.0,2.86,41.977,85.7,Alta positiva,Monitorar — Sharpe razoavel
+VIVT3.SA,52.21,33.6,60.4633,90.084,168.11,92.7,4.43,21.633,84.6,Alta positiva,Monitorar — Sharpe razoavel
+B3SA3.SA,52.21,16.5,20.92,27.4904,66.61,93.5,2.58,19.179,84.7,Alta positiva,Monitorar — Sharpe razoavel
+KLBN11.SA,52.61,16.67,19.8981,25.5624,53.34,88.1,2.39,17.379,84.0,Alta positiva,Monitorar — Sharpe razoavel
+ITSA4.SA,52.21,12.97,15.7597,15.9052,22.63,66.5,2.53,7.842,71.1,Alta positiva,Monitorar — Sharpe razoavel
+RECV3.SA,53.41,11.58,13.028,13.6827,18.16,63.1,1.96,8.276,69.3,Alta positiva,Monitorar — Sharpe razoavel
+POSI3.SA,53.01,4.14,4.644,4.2804,3.39,46.5,2.49,1.309,58.1,Lateral,Monitorar — Sharpe razoavel
+UNIP6.SA,53.82,60.87,60.2798,62.1487,2.1,63.5,1.64,1.239,60.1,Alta positiva,Monitorar — Sharpe razoavel
+BRGE12.SA,89.02,13.47,13.3698,13.1461,-2.4,15.0,0.14,-16.77,45.6,Alta negativa,Projecao fraca — entrar so em correcao
+BRSR6.SA,53.01,14.61,14.0473,12.6679,-13.29,25.0,2.55,-5.415,32.5,Alta negativa,Projecao fraca — entrar so em correcao
+CAML3.SA,52.61,5.75,6.0957,4.7456,-17.47,41.9,3.09,-6.014,33.5,Alta negativa,Projecao fraca — entrar so em correcao
+TTEN3.SA,52.21,15.57,13.9853,12.1876,-21.72,13.1,1.36,-17.394,27.5,Alta negativa,Projecao fraca — entrar so em correcao
+SAPR4.SA,53.01,7.47,5.4721,5.1449,-31.13,21.5,3.6,-10.011,25.7,Alta negativa,Projecao fraca — entrar so em correcao
+GGPS3.SA,55.02,12.4,10.0633,7.6939,-37.95,36.5,6.91,-6.65,26.2,Alta negativa,Projecao fraca — entrar so em correcao
+FRAS3.SA,53.41,22.0,17.9373,13.5603,-38.36,7.3,2.3,-20.323,21.2,Alta negativa,Projecao fraca — entrar so em correcao
+SAPR11.SA,52.21,38.51,28.3211,22.2359,-42.26,5.4,2.62,-20.293,19.2,Alta negativa,Projecao fraca — entrar so em correcao
+OIBR3.SA,52.21,0.12,0.1383,0.0678,-43.51,64.2,19.08,-2.798,27.6,Alta positiva,Projecao fraca — entrar so em correcao
+INTB3.SA,55.82,14.01,10.8678,7.7851,-44.43,10.8,3.35,-16.96,20.3,Alta negativa,Projecao fraca — entrar so em correcao
+PSSA3.SA,53.41,48.28,35.1148,26.677,-44.75,5.0,2.85,-20.123,18.6,Alta negativa,Projecao fraca — entrar so em correcao
+ENGI11.SA,54.62,48.4,37.4548,24.8074,-48.75,1.9,1.5,-43.152,17.1,Alta negativa,Projecao fraca — entrar so em correcao
+ABEV3.SA,55.02,16.29,13.5811,8.1378,-50.04,0.8,2.72,-24.679,16.6,Alta negativa,Projecao fraca — entrar so em correcao
+COGN3.SA,54.62,2.53,2.1935,1.2321,-51.3,26.5,7.03,-9.865,20.4,Alta negativa,Projecao fraca — entrar so em correcao
+SBSP3.SA,52.21,28.16,19.8908,13.06,-53.62,0.0,1.34,-55.593,15.7,Alta negativa,Projecao fraca — entrar so em correcao
+RDOR3.SA,55.42,34.47,22.2711,11.0883,-67.83,7.7,3.72,-29.458,17.8,Alta negativa,Projecao fraca — entrar so em correcao
+FLRY3.SA,53.01,15.74,8.1743,3.9393,-74.97,0.0,1.09,-122.921,15.9,Alta negativa,Projecao fraca — entrar so em correcao
+SIMH3.SA,53.41,9.12,4.7591,2.1368,-76.57,1.5,4.53,-30.906,16.3,Alta negativa,Projecao fraca — entrar so em correcao
+VIVA3.SA,53.01,22.15,9.904,4.6549,-78.98,0.0,3.99,-37.735,15.9,Alta negativa,Projecao fraca — entrar so em correcao
+BGIP4.SA,52.21,32.82,11.9728,3.4621,-89.45,0.0,2.94,-73.808,15.7,Alta negativa,Projecao fraca — entrar so em correcao
+MATD3.SA,58.23,5.2,1.7338,0.5049,-90.29,2.3,5.43,-41.44,17.8,Alta negativa,Projecao fraca — entrar so em correcao
+TIMS3.SA,55.02,22.34,5.4796,1.1007,-95.07,0.0,2.15,-134.684,16.5,Alta negativa,Projecao fraca — entrar so em correcao
+BHIA3.SA,55.42,1.38,0.2675,0.044,-96.81,0.0,5.46,-60.729,16.6,Alta negativa,Projecao fraca — entrar so em correcao
+VBBR3.SA,55.02,30.91,5.556,0.9281,-97.0,0.0,2.45,-137.988,16.5,Alta negativa,Projecao fraca — entrar so em correcao
+CSAN3.SA,54.22,3.94,0.381,0.0423,-98.93,0.4,6.36,-68.522,16.3,Alta negativa,Projecao fraca — entrar so em correcao
+BRKM5.SA,55.82,11.13,0.9111,0.0476,-99.57,0.0,8.3,-63.017,16.7,Alta negativa,Projecao fraca — entrar so em correcao
+DASA3.SA,55.82,3.29,0.0323,0.0002,-99.99,0.0,10.88,-84.263,16.7,Alta negativa,Projecao fraca — entrar so em correcao
