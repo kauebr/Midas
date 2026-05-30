@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e7978a95-2406-4526-90c4-ef8584a8a5e8" />
+
+  
 # 🏆 MIDAS BR
 
 <p align="center">
