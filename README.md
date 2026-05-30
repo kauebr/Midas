@@ -114,3 +114,143 @@ Nenhum resultado constitui recomendação de investimento.
 Tecnologia Brasileira 🇧🇷
 
 </p>
+
+# 🚀 Como R$ 500 por Mês Podem Virar Bilhões
+
+Veja a apresentação completa:
+
+👉 https://gamma.app/docs/Como-R-500-por-mes-podem-virar-bilhoes-mkv8szuhycreew4
+
+---
+
+# 🧒 Explicando Juros Compostos Para Uma Criança
+
+Imagine que você tem uma galinha.
+
+No primeiro ano ela coloca alguns ovos.
+
+Agora você tem a galinha e os ovos.
+
+Mas alguns ovos viram novas galinhas.
+
+Então no próximo ano:
+
+* A galinha original produz ovos.
+* As novas galinhas também produzem ovos.
+
+Depois de alguns anos você não tem apenas uma galinha.
+
+Você tem várias.
+
+E todas estão produzindo ao mesmo tempo.
+
+O dinheiro funciona igual.
+
+---
+
+## 💰 O Dinheiro Faz Filhos
+
+Você investe R$ 100.
+
+Depois de um tempo ele vira R$ 180.
+
+Agora os juros não acontecem apenas sobre os R$ 100.
+
+Eles acontecem sobre os R$ 180.
+
+Então:
+
+| Ano | Dinheiro |
+| --- | -------: |
+| 0   |   R$ 100 |
+| 1   |   R$ 180 |
+| 2   |   R$ 324 |
+| 3   |   R$ 583 |
+| 4   | R$ 1.050 |
+
+O dinheiro começa a crescer sozinho.
+
+---
+
+## ❄️ Pense Numa Bola de Neve
+
+Uma pequena bola de neve começa descendo uma montanha.
+
+No início ela cresce pouco.
+
+Depois cresce mais.
+
+Depois muito mais.
+
+Depois fica gigantesca.
+
+Os investimentos funcionam exatamente assim.
+
+---
+
+## 🌱 Pense Numa Árvore
+
+Quando você planta uma semente:
+
+* No primeiro mês quase nada acontece.
+* No primeiro ano ela ainda é pequena.
+* Depois de muitos anos ela fica enorme.
+
+Os juros compostos também precisam de tempo.
+
+---
+
+# 🤯 A Parte Mais Surpreendente
+
+Na simulação da apresentação:
+
+* Você começa com R$ 1.000.
+* Investe R$ 500 por mês.
+* Mantém isso durante 20 anos.
+
+Você coloca do próprio bolso aproximadamente:
+
+**R$ 121.000**
+
+Mas o patrimônio final pode chegar perto de:
+
+**R$ 3,18 bilhões**
+
+Isso acontece porque o dinheiro investido continua crescendo.
+
+Depois os juros crescem.
+
+Depois os juros dos juros crescem.
+
+Depois os juros dos juros dos juros crescem.
+
+E assim sucessivamente.
+
+---
+
+# 📈 A Grande Lição
+
+A maioria das pessoas acha que riqueza vem de:
+
+❌ Ganhar muito dinheiro.
+
+Mas muitas vezes ela vem de:
+
+✅ Investir.
+
+✅ Continuar investindo.
+
+✅ Dar tempo para os juros compostos trabalharem.
+
+No começo parece lento.
+
+No final parece impossível.
+
+É exatamente isso que torna os juros compostos tão poderosos.
+
+---
+
+> O segredo não é encontrar milhões.
+>
+> O segredo é permanecer investido tempo suficiente para que os juros compostos criem os milhões para você.
+
